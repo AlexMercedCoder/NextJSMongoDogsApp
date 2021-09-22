@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Spot",
+        "age": "6",
+        "breed": "Yellow Lab",
+        "image": "https://s36700.pcdn.co/wp-content/uploads/2019/01/Yellow-Labrador-Retriever-happy-in-grass--600x400.jpg.optimal.jpg"
+    },
+    {
+        "name":"Bo",
+        "age": "7",
+        "breed": "Boxer",
+        "image": "https://www.thesprucepets.com/thmb/h-1donXJH4OQv7XQjck1tsmD8Kk=/1885x1414/smart/filters:no_upscale()/Boxer-GettyImages-463043655-91a77226f5884b41915d50811e4e4e2b.jpg"
+    },
+    {
+        "name":"Falcor",
+        "age": "4",
+        "breed": "Pekingnese",
+        "image": "https://www.dogbreedinfo.com/images26/PekingesePurebredDogSchuster10YearsOldGroomedPuppyCutTailLongWhiteCoat1.JPG"
+    }
+]
